@@ -1,0 +1,35 @@
+h1 {
+  font-size: large;
+}
+#jumbotron {
+  background-color: #3b3b3b44;
+}
+#cover {
+  max-width: 100%;
+  height: auto;
+}
+h5 {
+  color: black;
+  font-weight: bold;
+}
+
+.sketchs p {
+  color: black;
+  font-weight: bold;
+}
+.carousel-inner img {
+  width: auto:!important;
+
+  height: 225px:!important;
+  
+  max-height: 225px:!important;
+  
+  }
+  .hi-fi img {
+    width: auto:!important;
+  
+    height: 225px:!important;
+    
+    max-height: 225px:!important;
+    
+    }
